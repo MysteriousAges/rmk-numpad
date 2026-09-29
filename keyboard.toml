@@ -11,7 +11,7 @@ serial_number = "numpad-v1"
 [matrix]
 # Row and col pins are mandatory
 row_pins = ["GPIO14", "GPIO15", "GPIO18", "GPIO19", "GPIO20", "GPIO21"]
-col_pins = ["GPIO0", "GPIO1", "GPIO02", "GPIO03", "GPIO04", "GPIO05"]
+col_pins = ["GPIO0", "GPIO1", "GPIO2", "GPIO3", "GPIO4", "GPIO5"]
 # RMK uses col2row as the default matrix diode direction, if you want to use a row2col matrix, add `row2col = true`
 # row2col = true
 
